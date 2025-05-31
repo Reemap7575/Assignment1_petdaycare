@@ -1,8 +1,9 @@
-# Assignment #1 – Getting Organized
+# Assignment #1 – Getting Organized - Pet Daycare
 
 **Name**: Reema Panchal  
 **Course**: SENG8091-25S-Sec2 – Software Engineering Principles  
 **Assignment**: Assignment #1 – Getting Organized
+**Date**:30/05/2025
 
 ---
 
@@ -132,4 +133,4 @@ The Pet Daycare aims to streamline both client and employee onboarding processes
 
 ## 9. Git Repository
 
-[GitHub Repository Link](https://github.com/your-username/pet-daycare-initial-meeting-prep)
+[GitHub Repository Link](https://github.com/Reemap7575/pet-daycare-initial-meeting-prep)
