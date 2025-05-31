@@ -3,7 +3,7 @@
 **Name**: Reema Panchal  
 **Course**: SENG8091-25S-Sec2 – Software Engineering Principles  
 **Assignment**: Assignment #1 – Getting Organized
-**Date**:30/05/2025
+
 
 ---
 
