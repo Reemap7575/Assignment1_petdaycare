@@ -133,4 +133,4 @@ The Pet Daycare aims to streamline both client and employee onboarding processes
 
 ## 9. Git Repository
 
-[GitHub Repository Link](https://github.com/Reemap7575/pet-daycare-initial-meeting-prep)
+[GitHub Repository Link][(https://github.com/Reemap7575/Assignment1_petdaycare/)]
